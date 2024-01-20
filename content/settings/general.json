@@ -1,0 +1,9 @@
+{
+  "title": "Monroe Charles",
+  "description": "Minimal portfolio template",
+  "base_url": "/",
+  "keywords": ["astro", "template"],
+  "logo": "assets/m_w.png",
+  "favicon": "assets/default.png",
+  "url": "/"
+}
